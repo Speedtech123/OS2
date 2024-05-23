@@ -24,6 +24,9 @@ read k1
  fi
  fi
  stty echo
+
+
+
 ......................................................
 Run: $sh Lab2.sh
 Enter the password:(whatever u type its invisible)
